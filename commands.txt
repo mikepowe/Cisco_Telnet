@@ -1,0 +1,3 @@
+username CISCO password CISCO
+username NETOPS password CISCO123
+snmp-server community CISCO RO
