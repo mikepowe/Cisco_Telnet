@@ -68,7 +68,7 @@ def open_telnet_conn(ip):
         time.sleep(2)
 
         #Open user selected file for reading
-        selected_cmd_file = open("/Users/mikepowell/Downloads/commands.txt", "r")
+        selected_cmd_file = open("commands.txt", "r")
 
         #Starting from the beginning of the file
         selected_cmd_file.seek(0)
