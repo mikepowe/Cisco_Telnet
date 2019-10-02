@@ -30,7 +30,7 @@ def open_telnet_conn(ip):
         #Define telnet parameters
         username = 'admin'
         password = 'cisco!123'
-        telnet_port = 2004
+        telnet_port = 23
         telnet_timeout = 3
         reading_timeout = 5
 
